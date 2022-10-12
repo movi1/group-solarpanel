@@ -1,12 +1,13 @@
 # group-solarpanel 
-Set up the git repository on Github
-When you create it, you can tick the box to add a read me file.
+- Amongst yourselves, choose someone to set up the git repository on Github
 
-You can invite people under settings > Collaborator > Manage access
+- Set up the git repository on Github, when you create it, you can tick the box to add a read me file.
 
-Add everyones email address or Github username there.
+- For group projects, add collaborators (people) to your git repository you can invite them under settings > Collaborator > Manage access. Add everyones email address or Github username there.
 
-They should receive an email granting them access.
+- They should receive an email granting them access.
+
+![email invite](./img/readme/email-invite-example.PNG)
 
 Check to see everyone has access to the repo.
 
@@ -35,6 +36,10 @@ First of all let’s set up the basic structure on the main branch:
 Note that this is the only time we will be touching this branch for now, afterwards you will be creating a develop branch and this will be your working/changing branch.
 
 Choose someone to do this locally and then push it to the main branch.
+
+```
+
+```
 
 Choose someone (maybe the same person as before or someone else) to add a new branch locally called  develop.
 

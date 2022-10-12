@@ -8,7 +8,7 @@ First of all let’s set up the basic structure on the main branch:
 - CSS
 - JS
 
-> Note that this is the only time we will be touching this branch for now, afterwards you will be creating a develop branch and this will be your working/changing branch.
+**Note that this is the only time we will be touching this branch for now**, afterwards you will be creating a develop branch and this will be your working/changing branch.
 
 - Choose someone to do this locally and then push it to the main branch using GIT or GIT DESKTOP.
 

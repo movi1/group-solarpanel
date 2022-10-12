@@ -19,7 +19,16 @@
 
 - You should all take a local clone of the remote. You can do this in github desktop or on the command line / terminal. 
 
-## Using GIT Bash
+## Method 1 Using GIT Desktop
+
+- To clone a repositorey go to file > clone repository, then select the name of the repository you are trying to clone. Scroll down until you find the repo:
+
+![clone-repo](./img/readme/clone-remote-repo.PNG)
+
+
+
+
+## Method 2 Using GIT Bash
 git clone urlgoeshere
 
 Https:
@@ -32,7 +41,14 @@ SSH:
 git clone git@github.com:movi1/group-solarpanel.git
 ```
 
-## Using GIT Desktop
+
+
+
+
+
+
+
+
 
 
 First of all let’s set up the basic structure on the main branch:

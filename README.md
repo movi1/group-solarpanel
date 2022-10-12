@@ -78,8 +78,10 @@ An example of this would be:
 ```
 feature/this-is-my-example-branch
 ```
-
+To create a branch go to Branch > New branch in Github Desktop
 ![Create Branch](./img/readme/create-branch.PNG)
+
+
 
 Now when you publish the branch you can push all your changes TO YOUR FEATURE BRANCH. 
 IMPORTANT:

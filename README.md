@@ -90,13 +90,30 @@ feature/this-is-my-example-branch
 **DO NOT WORK ON THE MASTER BRANCH, OR THE DEVELOP BRANCH, WORK ON YOUR FEATURE BRANCH.**
 
 ## Pull Requests
+A pull request is when a developer is ready to begin the process of merging new code changes from their branch into the **main** project repository.
 
+- When you have pushed your completed branch code to Github and want it to be combined (merged) with the main branch. You must do a pull request to merge those updates into the main branch.
 
+- To create a pull request go to Github Desktop make sure you are on the branch, commit, push and then finally select **Create Pull Request**:
+
+![Create Pull Request](./img/readme/create-pull-request.PNG)
+
+- Will take you to the Github website Pull request, here you should write a comment of your work and then select **Create pull request**: 
+
+![GITHUB Pull Request](./img/readme/github-pull-request.PNG)
+
+- The creator of the code should pull the trigger on the Merge pull request button to finally bring their code into main.
+
+![Review Pull Request](./img/readme/review-pull-request.PNG)
 ## Branch Rules (Protecting your main branch)
 
 To make sure you are not going to be overwriting each other’s changes, so working on different bits of code. It’s up to you how you manage this.
 
 Nb : If there are conflicts (ie someone’s code will overwrite or affect someone else) this will be flagged when you come to merge in the changes into the develop branch, and you will be able to fix conflicts then.
+
+- You can protect the main branch by adding the following rule in Settings > Branches > Add rule:
+
+> You must type the name of the branch you want to protect in Branch name pattern.
 
 ![My Image](./img/readme/git-setup-rules.PNG)
 

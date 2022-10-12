@@ -94,7 +94,7 @@ A pull request is when a developer is ready to begin the process of merging new 
 
 - When you have pushed your completed branch code to Github and want it to be combined (merged) with the main branch. You must do a pull request to merge those updates into the main branch.
 
-- To create a pull request go to Github Desktop and select **Create Pull Request**:
+- To create a pull request go to Github Desktop make sure you are on the branch, commit, push and then finally select **Create Pull Request**:
 
 ![Create Pull Request](./img/readme/create%20pull%20request.PNG)
 

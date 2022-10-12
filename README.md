@@ -61,12 +61,35 @@ First of all let’s set up the basic structure on the main branch:
 
 **Note that this is the only time we will be touching this branch for now, afterwards you will be creating a develop branch and this will be your working/changing branch.**
 
+## Create Develop Branch
+
+- Choose someone (maybe the same person as before or someone else) to add a new branch locally called  develop.
+
+- Then publish this branch to the remote. You can do this in github desktop.
+
+- Now everyone else should be able to do git pull or git fetch (Fetch origin in github desktop) and see the new branch locally on their computers.
+
 ## Creating Branches
 
-Choose someone (maybe the same person as before or someone else) to add a new branch locally called  develop.
+Once it is decide who will be doing what feature, create your feature branches. Each individual should create the feature branch they will be working on. You do this locally.
 
-Then publish this branch to the remote. You can do this in github desktop.
 
-Now everyone else should be able to do git pull or git fetch and see the new branch locally.
+```
+feature/this-is-my-example-branch
+```
+
+Now when you publish the branch you can push all your changes TO YOUR FEATURE BRANCH. 
+IMPORTANT:
+
+DO NOT WORK ON THE MASTER BRANCH, OR THE DEVELOP BRANCH, WORK ON YOUR FEATURE BRANCH.
+
+Please check with every team member they are doing this correctly.
+
+## Branch Rules
+
+To make sure you are not going to be overwriting each other’s changes, so working on different bits of code. It’s up to you how you manage this.
+
+Nb : If there are conflicts (ie someone’s code will overwrite or affect someone else) this will be flagged when you come to merge in the changes into the develop branch, and you will be able to fix conflicts then.
 
 ![My Image](./img/readme/git-setup-rules.PNG)
+

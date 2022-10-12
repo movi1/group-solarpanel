@@ -13,12 +13,13 @@
 
 ![invite-decline-accept](./img/readme/invite-accept-decline.PNG)
 
-- Check to see everyone has access to the repo.
+- The repository owner can check to see everyone has access to the repo in settings.
 
-You should all take a local clone of the remote.
+![visibility](./img/readme/visibility.PNG)
 
-You can do this in github desktop or on the command line / terminal. 
+- You should all take a local clone of the remote. You can do this in github desktop or on the command line / terminal. 
 
+## Using GIT Bash
 git clone urlgoeshere
 
 Https:
@@ -30,6 +31,8 @@ SSH:
 ```
 git clone git@github.com:movi1/group-solarpanel.git
 ```
+
+## Using GIT Desktop
 
 
 First of all let’s set up the basic structure on the main branch:

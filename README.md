@@ -78,7 +78,9 @@ An example of this would be:
 ```
 feature/this-is-my-example-branch
 ```
-To create a branch go to Branch > New branch in Github Desktop
+
+**To create a branch go to Branch > New branch in Github Desktop:**
+
 ![Create Branch](./img/readme/create-branch.PNG)
 
 

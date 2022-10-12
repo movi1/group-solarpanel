@@ -73,6 +73,7 @@ First of all let’s set up the basic structure on the main branch:
 
 Once it is decide who will be doing what feature, create your feature branches. Each individual should create the feature branch they will be working on. You do this locally.
 
+An example of this would be:
 
 ```
 feature/this-is-my-example-branch

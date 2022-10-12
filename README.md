@@ -5,11 +5,15 @@
 
 - For group projects, add collaborators (people) to your git repository you can invite them under settings > Collaborator > Manage access. Add everyones email address or Github username there.
 
-- They should receive an email granting them access.
+- They should receive an email to view an invitation for granting them access:
 
 ![email invite](./img/readme/email-invite-example.PNG)
 
-Check to see everyone has access to the repo.
+- After clicking the view invitation you can accept or decline to join the owners repository as a collaborator:
+
+![invite-decline-accept](./img/readme/invite-accept-decline.PNG)
+
+- Check to see everyone has access to the repo.
 
 You should all take a local clone of the remote.
 

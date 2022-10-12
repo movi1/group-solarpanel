@@ -3,6 +3,23 @@
 
 - Set up the git repository on Github, when you create it, you can tick the box to add a read me file.
 
+First of all let’s set up the basic structure on the main branch:
+- HTML
+- CSS
+- JS
+
+> Note that this is the only time we will be touching this branch for now, afterwards you will be creating a develop branch and this will be your working/changing branch.
+
+- Choose someone to do this locally and then push it to the main branch using GIT or GIT DESKTOP.
+
+
+
+
+
+
+
+
+
 - For group projects, add collaborators (people) to your git repository you can invite them under settings > Collaborator > Manage access. Add everyones email address or Github username there.
 
 - They should receive an email to view an invitation for granting them access:
@@ -26,7 +43,9 @@
 ![clone-repo](./img/readme/clone-remote-repo.PNG)
 
 
+- Press the clone button, after it has downloaded. You will now have a local copy of the repository on your computer:
 
+![clone-repo-succes](./img/readme/clone-repo.PNG)
 
 ## Method 2 Using GIT Bash
 git clone urlgoeshere
@@ -51,18 +70,7 @@ git clone git@github.com:movi1/group-solarpanel.git
 
 
 
-First of all let’s set up the basic structure on the main branch:
-- HTML
-- CSS
-- JS
 
-Note that this is the only time we will be touching this branch for now, afterwards you will be creating a develop branch and this will be your working/changing branch.
-
-Choose someone to do this locally and then push it to the main branch.
-
-```
-
-```
 
 Choose someone (maybe the same person as before or someone else) to add a new branch locally called  develop.
 

@@ -83,16 +83,16 @@ feature/this-is-my-example-branch
 
 ![Create Branch](./img/readme/create-branch.PNG)
 
+- Now when you publish the branch you can push all your changes TO YOUR FEATURE BRANCH.
+
+**IMPORTANT:**
+
+**DO NOT WORK ON THE MASTER BRANCH, OR THE DEVELOP BRANCH, WORK ON YOUR FEATURE BRANCH.**
+
+## Pull Requests
 
 
-Now when you publish the branch you can push all your changes TO YOUR FEATURE BRANCH. 
-IMPORTANT:
-
-DO NOT WORK ON THE MASTER BRANCH, OR THE DEVELOP BRANCH, WORK ON YOUR FEATURE BRANCH.
-
-Please check with every team member they are doing this correctly.
-
-## Branch Rules
+## Branch Rules (Protecting your main branch)
 
 To make sure you are not going to be overwriting each other’s changes, so working on different bits of code. It’s up to you how you manage this.
 

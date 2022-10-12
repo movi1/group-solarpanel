@@ -113,7 +113,6 @@ Nb : If there are conflicts (ie someone’s code will overwrite or affect someon
 
 - You can protect the main branch by adding the following rule in Settings > Branches > Add rule:
 
-> You must type the name of the branch you want to protect in Branch name pattern.
-
 ![My Image](./img/readme/git-setup-rules.PNG)
 
+> You must type the name of the branch you want to protect in Branch name pattern.

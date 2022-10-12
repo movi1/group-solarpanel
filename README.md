@@ -90,7 +90,11 @@ feature/this-is-my-example-branch
 **DO NOT WORK ON THE MASTER BRANCH, OR THE DEVELOP BRANCH, WORK ON YOUR FEATURE BRANCH.**
 
 ## Pull Requests
+A pull request is when a developer is ready to begin the process of merging new code changes from their branch into the **main** project repository.
 
+- When you have pushed your completed branch code to Github and want it to be combined (merged) with the main branch. You must do a pull request to merge those updates into the main branch.
+
+-To create a pull request 
 
 ## Branch Rules (Protecting your main branch)
 

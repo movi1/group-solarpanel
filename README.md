@@ -96,9 +96,9 @@ A pull request is when a developer is ready to begin the process of merging new 
 
 - To create a pull request go to Github Desktop make sure you are on the branch, commit, push and then finally select **Create Pull Request**:
 
-![Create Pull Request](./img/readme/create%20pull%20request.PNG)
+![Create Pull Request](./img/readme/create-pull-request.PNG)
 
-
+![GITHUB Pull Request](./img/readme/github-pull-request.PNG)
 
 ## Branch Rules (Protecting your main branch)
 

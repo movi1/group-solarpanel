@@ -115,4 +115,4 @@ Nb : If there are conflicts (ie someone’s code will overwrite or affect someon
 
 ![My Image](./img/readme/git-setup-rules.PNG)
 
-> You must type the name of the branch you want to protect in Branch name pattern.
+> You must type the name of the branch you want to protect in Branch name pattern..
